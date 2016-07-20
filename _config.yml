@@ -1,4 +1,3 @@
-layout_spectrum: 0.6138423373922706
 typography_spectrum: 0.604492332553491
 color:
   brandStrength: 0.16302293119952083
@@ -11,4 +10,9 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+layout_spectrum: 0.6138423373922706
+author:
+  name: Buckstar
+  url: writewithintegrity.com
 name: rumble grump
+title: context commentary editorial
