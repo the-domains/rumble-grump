@@ -1,0 +1,14 @@
+layout_spectrum: 0.6138423373922706
+typography_spectrum: 0.604492332553491
+color:
+  brandStrength: 0.16302293119952083
+  lightness: 0.23018366028554738
+  saturation: 0.16920504113659263
+  rhythmicContrast: 0.8242922811768949
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: rumble grump
