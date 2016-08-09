@@ -1,23 +1,23 @@
 ---
+datePublished: '2016-08-09T01:24:12.288Z'
+sourcePath: _posts/2016-08-09-i-have-a-fetish.md
+author: []
+via: {}
+dateModified: '2016-08-09T01:24:11.675Z'
+title: I have a fetish…
+publisher: {}
 description: >-
   I see an empty corner space in a brick building, and I think of the
   neighborhood, the parking, what kind of foot traffic this place would get… is
   this a retail location, or a service business? Maybe a coworking space?
-dateModified: '2016-08-09T01:18:55.660Z'
-datePublished: '2016-08-09T01:19:11.286Z'
-title: I have a fetish…
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-09-i-have-a-fetish.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![... could always be a coffee shop ...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d23f213-5c35-4ee3-b098-5aa0747a0918.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d23f213-5c35-4ee3-b098-5aa0747a0918.jpg)
 
 # I have a fetish...
 
