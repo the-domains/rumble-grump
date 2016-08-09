@@ -1,15 +1,14 @@
 ---
-datePublished: '2016-08-09T01:24:12.288Z'
+datePublished: '2016-08-09T01:25:21.971Z'
 sourcePath: _posts/2016-08-09-i-have-a-fetish.md
 author: []
 via: {}
-dateModified: '2016-08-09T01:24:11.675Z'
+dateModified: '2016-08-09T01:25:21.530Z'
 title: I have a fetish…
 publisher: {}
 description: >-
-  I see an empty corner space in a brick building, and I think of the
-  neighborhood, the parking, what kind of foot traffic this place would get… is
-  this a retail location, or a service business? Maybe a coworking space?
+  When I see empty office space of any sort, I invent the perfect business to go
+  into that space.
 starred: false
 inFeed: true
 hasPage: false
@@ -21,9 +20,9 @@ _type: MediaObject
 
 # I have a fetish...
 
-## When I see empty office space of any sort, I invent the perfect business to go into that space.
+When I see empty office space of any sort, I invent the perfect business to go into that space.
 
-### It's a habit. A fetish. Like a stone you play with in your pocket.
+It's a habit. A fetish. Like a stone you play with in your pocket.
 
 I see an empty corner space in a brick building, and I think of the neighborhood, the parking, what kind of foot traffic this place would get... is this a retail location, or a service business? Maybe a coworking space?
 
